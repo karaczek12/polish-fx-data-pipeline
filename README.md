@@ -77,7 +77,7 @@ The initial tests focus on extracting exchange-rate data from an API response an
 
 ## Project Roadmap
 
-- [ ] Milestone 1 — Python foundation, API client and unit tests
+- [x] Milestone 1 — Python foundation, API client and unit tests
 - [ ] Milestone 2 — Historical exchange-rate ingestion and validation
 - [ ] Milestone 3 — PostgreSQL integration and database design
 - [ ] Milestone 4 — Invoice conversion and SQL analytics
